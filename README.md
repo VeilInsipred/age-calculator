@@ -1,2 +1,23 @@
 # age-calculator
 a responsive age calculator web app
+  <div class="project-card" data-category="javascript">
+                <div class="age-calculator">
+                  <h3>Age Calculator</h3>
+                  <div class="calculator-container">
+                    <input type="date" id="birthdate" class="date-input">
+                    <button id="calculate-btn" class="btn">Calculate Age</button>
+                    <div id="result" class="result-box">
+                      <p>Enter your birthdate above</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="project-info">
+                  <h3>Age Calculator</h3>
+                  <p>A tool that calculates your exact age in years, months, and days.</p>
+                  <div class="tech-used">
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>JavaScript</span>
+                  </div>
+                </div>
+              </div>
